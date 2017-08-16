@@ -59,3 +59,6 @@ typings/
 
 # configuration file for Firebase.  Includes personal stuff inside
 src/configure.js
+
+#Original JSON files for the Firebase Database...case...
+items/
