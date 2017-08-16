@@ -57,8 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
-# configuration file for Firebase.  Includes personal stuff inside
+# configuration file for Firebase
 src/configure.js
 
-#Original JSON files for the Firebase Database...case...
-items/
+#Original JSON file for the Firebase Database...case...
+items.json
