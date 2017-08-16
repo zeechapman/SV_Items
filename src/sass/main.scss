@@ -1,0 +1,24 @@
+* { padding: 0; margin: 0; }
+
+body {
+    background: url('../media/bg.png') no-repeat center fixed;
+    background-size: cover;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.App {
+    width: 100vw;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.Content {
+    width: 90vw;
+    background: #FFCB7B;
+    border-radius: 10px;    // Shhhh, don't tell anyone
+    border: 1px solid white;
+    border-image: url('../media/border.png') 14;
+    border-image-width: 14px;
+    padding: 24px;
+}

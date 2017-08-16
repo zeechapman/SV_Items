@@ -1,0 +1,1274 @@
+{
+	"Crop": {
+		"Blue Jazz": {
+			"type" : "Flower",
+			"found" : "Jazz Seeds",
+			"season": "Spring",
+			"growthTime": 7,
+			"sell": 50
+		},
+		"Cauliflower": {
+			"type" : "Vegetable",
+			"found" : "Cauliflower Seeds",
+			"season": "Spring",
+			"growthTime": 12,
+			"sell": 175	
+		},
+		"Coffee Bean": {
+			"type" : "Seed",
+			"season": "Spring,Summer",
+			"growthTime": 10,
+			"sell": 15	
+		},
+		"Garlic": {
+			"type" : "Vegetable",
+			"found" : "Garlic Seeds",
+			"season": "Spring",
+			"growthTime": 4,
+			"sell": 60
+		},
+		"Green Bean": {
+			"type" : "Vegetable",
+			"found" : "Bean Starter",
+			"season": "Spring",
+			"growthTime": 10,
+			"produceDays": 3,
+			"sell": 40
+		},
+		"Kale": {
+			"type" : "Vegetable",
+			"found" : "Kale Seeds",
+			"season": "Spring",
+			"growthTime": 6,
+			"sell": 110
+			
+		},
+		"Parsnip": {
+			"type" : "Vegetable",
+			"found" : "Parsnip Seeds",
+			"season": "Spring",
+			"growthTime": 4,
+			"sell": 35
+			
+		},
+		"Potato": {
+			"type" : "Vegetable",
+			"found" : "Potato Seeds",
+			"season": "Spring",
+			"growthTime": 6,
+			"sell": 80
+			
+		},
+		"Rhubarb": {
+			"type" : "Vegetable",
+			"found" : "Rhubarb Seeds",
+			"season": "Spring",
+			"growthTime": 13,
+			"sell": 220
+			
+		},
+		"Strawberry": {
+			"type" : "Fruit",
+			"found" : "Strawberry Seeds",
+			"season": "Spring",
+			"growthTime": 8,
+			"produceDays": 4,
+			"sell": 120
+			
+		},
+		"Tulip": {
+			"type" : "Flower",
+			"found" : "Tulip Bulbs",
+			"season": "Spring",
+			"growthTime": 6,
+			"sell": 30
+			
+		},
+		"Blueberry": {
+			"type" : "Fruit",
+			"found" : "Blueberry Seeds",
+			"season": "Summer",
+			"growthTime": 13,
+			"produceDays": 4,
+			"sell": 50
+			
+		},
+		"Corn": {
+			"type" : "Vegetable",
+			"found" : "Corn Seeds",
+			"season": "Summer,Fall",
+			"growthTime": 14,
+			"produceDays": 4,
+			"sell": 50
+			
+		},
+		"Hops": {
+			"type" : "Vegetable",
+			"found" : "Hop Starter",
+			"season": "Summer",
+			"growthTime": 11,
+			"produceDays": 1,
+			"sell": 25
+			
+		},
+		"Hot Pepper": {
+			"type" : "Vegetable",
+			"found" : "Pepper Seeds",
+			"season": "Summer",
+			"growthTime": 5,
+			"produceDays": 3,
+			"sell": 40
+			
+		},
+		"Melon": {
+			"type" : "Fruit",
+			"found" : "Melon Seeds",
+			"season": "Summer",
+			"growthTime": 12,
+			"sell": 250
+			
+		},
+		"Poppy": {
+			"type" : "Flower",
+			"found" : "Poppy Seeds",
+			"season": "Summer",
+			"growthTime": 7,
+			"sell": 140
+			
+		},
+		"Radish": {
+			"type" : "Vegetable",
+			"found" : "Radish Seeds",
+			"season": "Summer",
+			"growthTime": 6,
+			"sell": 90
+			
+		},
+		"Red Cabbage": {
+			"type" : "Vegetable",
+			"found" : "Red Cabbage Seeds",
+			"season": "Summer",
+			"growthTime": 9,
+			"sell": 260
+		},
+		"Starfruit": {
+			"type" : "Fruit",
+			"found" : "Starfruit Seeds",
+			"season": "Summer",
+			"growthTime": 13,
+			"sell": 750
+			
+		},
+		"Summer Spangle": {
+			"type" : "Flower",
+			"found" : "Spangle Seeds",
+			"season": "Summer",
+			"growthTime": 8,
+			"sell": 90
+			
+		},
+		"Sunflower": {
+			"type" : "Flower",
+			"found" : "Sunflower Seeds",
+			"season": "Summer,Fall",
+			"growthTime": 8,
+			"sell": 80
+			
+		},
+		"Tomato": {
+			"type" : "Fruit",
+			"found" : "Tomato Seeds",
+			"season": "Summer",
+			"growthTime": 11,
+			"produceDays": 4,
+			"sell": 60
+			
+		},
+		"Wheat": {
+			"type" : "Vegetable",
+			"found" : "Wheat Seeds",
+			"season": "Summer,Fall",
+			"growthTime": 4,
+			"sell": 25
+			
+		},
+		"Amaranth": {
+			"type" : "Vegetable",
+			"found" : "Amaranth Seeds",
+			"season": "Fall",
+			"growthTime": 7,
+			"sell": 150
+			
+		},
+		"Artichoke": {
+			"type" : "Vegetable",
+			"found" : "Artichoke Seeds",
+			"season": "Fall",
+			"growthTime": 8,
+			"sell": 160
+			
+		},
+		"Beet": {
+			"type" : "Vegetable",
+			"found" : "Beet Seeds",
+			"season": "Fall",
+			"growthTime": 6,
+			"sell": 100
+			
+		},
+		"Bok Choy": {
+			"type" : "Vegetable",
+			"found" : "Bok Choy Seeds",
+			"season": "Fall",
+			"growthTime": 4,
+			"sell": 80
+			
+		},
+		"Cranberries": {
+			"type" : "Fruit",
+			"found" : "Cranberry Seeds",
+			"season": "Fall",
+			"growthTime": 7,
+			"produceDays": 5,
+			"sell": 75
+			
+		},
+		"Eggplant": {
+			"type" : "Vegetable",
+			"found" : "Eggplant Seeds",
+			"season": "Fall",
+			"growthTime": 5,
+			"produceDays": 5,
+			"sell": 60
+			
+		},
+		"Fairy Rose": {
+			"type" : "Flower",
+			"found" : "Fairy Seeds",
+			"season": "Fall",
+			"growthTime": 12,
+			"sell": 290
+			
+		},
+		"Grape": {
+			"type" : "Fruit",
+			"found" : "Grape Starter",
+			"season": "Summer,Fall",
+			"growthTime": 10,
+			"produceDays": 3,
+			"sell": 80
+			
+		},
+		"Pumpkin": {
+			"type" : "Fruit",
+			"found" : "Pumpkin Seeds",
+			"season": "Fall",
+			"growthTime": 13,
+			"sell": 320
+			
+		},
+		"Yam": {
+			"type" : "Vegetable",
+			"found" : "Yam Seeds",
+			"season": "Fall",
+			"growthTime": 10,
+			"sell": 160
+			
+		},
+		"Sweet Gem Berry": {
+			"type" : "Fruit",
+			"found" : "Rare Seed",
+			"season": "Fall",
+			"growthTime": 24,
+			"sell": 3000
+			
+		},
+		"Ancient Fruit": {
+			"type" : "Fruit",
+			"found" : "Ancient Seeds",
+			"season": "Spring",
+			"growthTime": 28,
+			"produceDays": 7,
+			"sell": 550	
+		}
+	},
+	"Foraging" : {
+		"Wild Horseradish" : {
+			"found" : "Pelican Town,Secret Woods",
+			"season" : "Spring",
+			"sell" : 50
+		},
+		"Daffodil" : {
+			"found" : "Pelican Town",
+			"season" : "Spring",
+			"sell" : 30
+		},
+		"Leek" : {
+			"found" : "Pelican Town",
+			"season" : "Spring",
+			"sell" : 60
+		},
+		"Dandelion" : {
+			"found" : "Pelican",
+			"season" : "Spring",
+			"sell" : 40
+		},
+		"Spring Onion" : {
+			"found" : "Cindersap Forest,Pelican Town",
+			"season" : "Spring",
+			"sell" : 8
+		},
+		"Morel" : {
+			"found" : "Secret Woods",
+			"season" : "Spring",
+			"sell" : 40
+		},
+		"Salmonberry" : {
+			"found" : "Bushes",
+			"season" : "Spring",
+			"sell" : 5
+		},
+		"Spice Berry" : {
+			"found" : "Pelican Town",
+			"season" : "Summer",
+			"sell" : 80
+		},
+		"Sweet Pea" : {
+			"found" : "Pelican Town",
+			"season" : "Summer",
+			"sell" : 55
+		},
+		"Red Mushroom" : {
+			"found" : "Secret Woods,The Mines,Big Mushroom Tree",
+			"season" : "Summer,Fall",
+			"sell" : 75
+		},
+		"Fiddlehead Fern" : {
+			"found" : "Secret Woods",
+			"season" : "Summer",
+			"sell" : 90
+		},
+		"Wild Plum" : {
+			"found" : "Pelican Town,Maple Tree",
+			"season" : "Fall",
+			"sell" : 80
+		},
+		"Hazelnut" : {
+			"found" : "Pelican Town",
+			"season" : "Fall",
+			"sell" : 90
+		},
+		"Blackberry" : {
+			"found" : "Pelican Town,Bushes",
+			"season" : "Fall",
+			"sell" : 20
+		},
+		"Chanterelle" : {
+			"found" : "Secret Woods",
+			"season" : "Fall",
+			"sell" : 160
+		},
+		"Common Mushroom" : {
+			"found" : "Pelican Town,Secret Woods",
+			"season" : "Fall",
+			"sell" : 40
+		},
+		"Winter Root" : {
+			"found" : "Pelican Town,The Mines",
+			"season" : "Winter",
+			"sell" : 70
+		},
+		"Crystal Fruit" : {
+			"found" : "Pelican Town,The Mines",
+			"season" : "Winter",
+			"sell" : 150
+		},
+		"Snow Yam" : {
+			"found" : "Pelican Town,Tilling",
+			"season" : "Winter",
+			"sell" : 100
+		},
+		"Crocus" : {
+			"found" : "Pelican Town",
+			"season" : "Winter",
+			"sell" : 60
+		},
+		"Holly" : {
+			"found" : "Pelican Town,Secret Woods",
+			"season" : "Winter",
+			"sell" : 80
+		},
+		"Nautilus" : {
+			"found" : "The Beach",
+			"season" : "Winter",
+			"sell" : 120
+		},
+		"Coral" : {
+			"found" : "The Beach",
+			"season" : "All",
+			"sell" : 80
+		},
+		"Sea Urchin" : {
+			"found" : "The Beach",
+			"season" : "All",
+			"sell" : 160
+		},
+		"Rainbow Shell" : {
+			"found" : "The Beach",
+			"season" : "Summer",
+			"sell" : 300
+		},
+		"Clam" : {
+			"found" : "The Beach",
+			"season" : "All",
+			"sell" : 50
+		},
+		"Cockle" : {
+			"found" : "The Beach",
+			"season" : "All",
+			"sell" : 50
+		},
+		"Mussel" : {
+			"found" : "The Beach",
+			"season" : "All",
+			"sell" : 30
+		},
+		"Oyster" : {
+			"found" : "The Beach",
+			"season" : "All",
+			"sell" : 40
+		},
+		"Cave Carrot" : {
+			"found" : "The Mines",
+			"season" : "All",
+			"sell" : 25
+		},
+		"Cactus Fruit" : {
+			"found" : "The Desert",
+			"season" : "All",
+			"sell" : 75
+		},
+		"Coconut" : {
+			"found" : "The Desert",
+			"season" : "All",
+			"sell" : 100
+		}
+	},
+	"Minerals" : {
+		"Quartz" : {
+			"found" : "The Mines,Garbage Cans",
+			"sell" : 25
+		},
+		"Earth Crystal" : {
+			"found" : "The Mines,Panning,Geodes,Garbage Cans",
+			"sell" : 50
+		},
+		"Frozen Tear" : {
+			"found" : "The Mines,Fishing,Panning,Frozen Geode,Garbage Cans",
+			"sell" : 75
+		},
+		"Fire Quartz" : {
+			"found" : "The Mines,Panning,Magma Geode,Omni Geode,Garbage Cans",
+			"sell" : 100
+		},
+		"Emerald" : {
+			"found" : "Node,Gem Node,Panning,Garbage Cans,Fishing",
+			"sell" : 250
+		},
+		"Aquamarine" : {
+			"found" : "Node,Gem Node,Panning,Garbage Cans,Fishing",
+			"sell" : 180
+		},
+		"Ruby" : {
+			"found" : "Node,Gem Node,Panning,Garbage Cans,Fishing",
+			"sell" : 250
+		},
+		"Amethyst" : {
+			"found" : "Node,Gem Node,Slimes,Panning,Garbage Cans,FIshing",
+			"sell" : 100
+		},
+		"Topaz" : {
+			"found" : "Node,Gem Node,Panning,Garbage Can,Fishing",
+			"sell" : 80
+		},
+		"Jade" : {
+			"found" : "Node,Gem Node,Panning,Garbage Cans,Fishing",
+			"sell" : 200
+		},
+		"Diamond" : {
+			"found" : "Node,Gem Node,Panning,Garbage Cans,Fishing",
+			"sell" : 750 
+		},
+		"Prismatic Shard" : {
+			"found" : "Iridium Node,Mystic Stone,Gem Node,Omni Node,Shadow Brute,Shadow Shaman,Mummy,Serpent,Fishing",
+			"sell" : 2000
+		},
+		"Tigerseye" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 275
+		},
+		"Opal" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 150
+		},
+		"Fire Opal" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 350
+		},
+		"Alamite" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 150
+		},
+		"Bixite" : {
+			"found" : "Magma Geode,Omni Geode,Black Slime",
+			"sell" : 300
+		},
+		"Baryte" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 50
+		},
+		"Aerinite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 125
+		},
+		"Calcite" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 75
+		},
+		"Dolomite" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 300
+		},
+		"Esperite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 100
+		},
+		"Fluorapatite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 200
+		},
+		"Geminite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 150
+		},
+		"Helvite" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 450
+		},
+		"Jamborite" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 150
+		},
+		"Jagoite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 115
+		},
+		"Kyanite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 250
+		},
+		"Lunarite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 200
+		},
+		"Malachite" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 100
+		},
+		"Neptunite" : {
+			"found" : "Magma Geode,Black Slime,Omni Geode",
+			"sell" : 400
+		},
+		"Lemon Stone" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 200
+		},
+		"Nekoite" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 80
+		},
+		"Opriment" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 80
+		},
+		"Petrified Slime" : {
+			"found" : "Geode,Slime Ball,Omni Geode",
+			"sell" : 120
+		},
+		"Thunder Egg" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 100
+		},
+		"Pyrite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 120
+		},
+		"Ocean Stone" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 220
+		},
+		"Ghost Crystal" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 200
+		},
+		"Jasper" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 150
+		},
+		"Celestine" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 125
+		},
+		"Marble" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 110
+		},
+		"Sanstone" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 60
+		},
+		"Granite" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 75
+		},
+		"Basalt" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 175
+		},
+		"Limestone" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 15
+		},
+		"Soapstone" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 120
+		},
+		"Hematite" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 150
+		},
+		"Mudstone" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 25
+		},
+		"Obsidian" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 200
+		},
+		"Slate" : {
+			"found" : "Geode,Omni Geode",
+			"sell" : 85
+		},
+		"Fairy Stone" : {
+			"found" : "Frozen Geode,Omni Geode",
+			"sell" : 250
+		},
+		"Star Shards" : {
+			"found" : "Magma Geode,Omni Geode",
+			"sell" : 500
+		}
+	},
+	"Fish" : {
+		"Pufferfish" : {
+			"found" : "Ocean",
+			"season" : "Summer",
+			"time" : "12pm - 4pm",
+			"weather" : "Sun",
+			"sell" : 200
+		},
+		"Anchovy" : {
+			"found" : "Ocean",
+			"season" : "Spring,Fall",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 30
+		},
+		"Tuna" : {
+			"found" : "Ocean",
+			"season" : "Spring,Fall,Winter",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 100
+		},
+		"Sardine" : {
+			"found" : "Ocean",
+			"season" : "Spring,Fall,Winter",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 40
+		},
+		"Bream" : {
+			"found" : "River",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 45
+		},
+		"Largemouth Bass" : {
+			"found" : "Mountain Lake",
+			"season" : "All",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 100
+		},
+		"Smallmouth Bass" : {
+			"found" : "River,Forest Pond",
+			"season" : "Spring,Fall",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 105
+		},
+		"Rainbow Trout" : {
+			"found" : "River,Mountain Lake",
+			"season" : "Summer",
+			"time" : "6am - 7pm",
+			"weather" : "Sun",
+			"sell" : 65
+		},
+		"Salmon" : {
+			"found" : "River,Forest Pond,Mountain Lake",
+			"season" : "Fall",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 75
+		},
+		"Walleye" : {
+			"found" : "River,",
+			"season" : "Fall",
+			"time" : "12pm - 2am",
+			"weather" : "Rain",
+			"sell" : 105
+		},
+		"Perch" : {
+			"found" : "River,Forest Pond,Mountain Lake",
+			"season" : "Winter",
+			"time" : "Anytime",
+			"weather" : "Winter",
+			"sell" : 55
+		},
+		"Carp" : {
+			"found" : "Mountain Lake,Sewers,Secret Woods",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 30
+		},
+		"Catfish" : {
+			"found" : "River,Secret Woods,Witch's Swamp",
+			"season" : "Spring,Summer,Fall",
+			"time" : "Anytime",
+			"weather" : "Rain",
+			"sell" : 200
+		},
+		"Pike" : {
+			"found" : "River,Forest Pond",
+			"season" : "Summer,Winter",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 100
+		},
+		"Sunfish" : {
+			"found" : "River,Ocean",
+			"season" : "Spring,Summer",
+			"time" : "6am - 7pm",
+			"weather" : "Sun",
+			"sell" : 30
+		},
+		"Red Mullet" : {
+			"found" : "Ocean",
+			"season" : "Summer,Winter",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 75
+		},
+		"Herring" : {
+			"found" : "Ocean",
+			"season" : "Spring,Winter",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 30
+		},
+		"Eel" : {
+			"found" : "Ocean",
+			"season" : "Spring,Fall",
+			"time" : "4pm - 2am",
+			"weather" : "Rain",
+			"sell" : 85
+		},
+		"Octopus" : {
+			"found" : "Ocean",
+			"season" : "Summer",
+			"time" : "6am - 1pm",
+			"weather" : "Any",
+			"sell" : 150
+		},
+		"Red Snapper" : {
+			"found" : "Ocean",
+			"season" : "Summer,Fall,Winter",
+			"time" : "6am - 7pm",
+			"weather" : "Rain",
+			"sell" : 50
+		},
+		"Squid" : {
+			"found" : "Ocean",
+			"season" : "Winter",
+			"time" : "6pm - 2am",
+			"weather" : "Any",
+			"sell" : 80
+		},
+		"Sea Cucumber" : {
+			"found" : "Ocean",
+			"season" : "Fall,Winter",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 75
+		},
+		"Super Cucumber" : {
+			"found" : "Ocean",
+			"season" : "Summer,Fall",
+			"time" : "6pm - 2am",
+			"weather" : "Any",
+			"sell" : 250
+		},
+		"Ghostfish" : {
+			"found" : "Mines,Ghost",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 45
+		},
+		"Stonefish" : {
+			"found" : "Mines (20F)",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 300
+		},
+		"Ice Pip" : {
+			"found" : "Mines (60F)",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 500
+		},
+		"Lava Eel" : {
+			"found" : "Mines (100F)",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 700
+		},
+		"Sandfish" : {
+			"found" : "The Desert",
+			"season" : "All",
+			"time" : "6am - 10pm",
+			"weather" : "Any",
+			"sell" : 75 
+		},
+		"Scorpion Carp" : {
+			"found" : "The Desert",
+			"season" : "All",
+			"time" : "6am - 10pm",
+			"weather" : "Any",
+			"sell" : 150
+		},
+		"Sturgeon" : {
+			"found" : "Mountain Lake",
+			"season" : "Summer,Winter",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 200 
+		},
+		"Tiger Trout" : {
+			"found" : "River",
+			"season" : "Fall,Winter",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 150
+		},
+		"Bullhead" : {
+			"found" : "Mountain Lake",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" :  75
+		},
+		"Tilapia" : {
+			"found" : "Ocean",
+			"season" : "Summer,Fall",
+			"time" : "6am - 2pm",
+			"weather" : "Any",
+			"sell" : 75
+		},
+		"Chub" : {
+			"found" : "River (Forest),Mountain Lake",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 50
+		},
+		"Dorado" : {
+			"found" : "River (Forest)",
+			"season" : "Summer",
+			"time" : "6am - 7pm",
+			"weather" : "Any",
+			"sell" : 100
+		},
+		"Albacore" : {
+			"found" : "Ocean",
+			"season" : "Fall,Winter",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 75
+		},
+		"Shad" : {
+			"found" : "River",
+			"season" : "Spring,Summer,Fall",
+			"time" : "9am - 2pm",
+			"weather" : "Rain",
+			"sell" : 60
+		},
+		"Lingcod" : {
+			"found" : "River,Mountain Lake",
+			"season" : "Winter",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 120
+		},
+		"Halibut" : {
+			"found" : "Ocean",
+			"season" : "Spring,Summer,Winter",
+			"time" : "6am - 11am & 7pm - 2am",
+			"weather" : "Any",
+			"sell" : 80
+		},
+		"Woodskip" : {
+			"found" : "Secret Woods",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 75
+		},
+		"Void Salmon" : {
+			"found" : "Witch's Swamp",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 150
+		},
+		"Slimejack" : {
+			"found" : "Mutant Bug Lair",
+			"season" : "All",
+			"time" : "Anytime",
+			"weather" : "Any",
+			"sell" : 100
+		},
+		"Legendary" : {
+			"Crimsonfish" : {
+				"found" : "East of pier on The Beach towards Elliott's shack.",
+				"level" : 5,
+				"season" : "Summer",
+				"weather" : "Any",
+				"sell" :  1500
+			},
+			"Angler" : {
+				"found" : "North of Joja Mart where wooden bridge is.  Stand on center and cast north",
+				"level" : 3,
+				"season" : "Fall",
+				"weather" : "Any",
+				"sell" : 900
+			},
+			"Legend" : {
+				"found" : "The Mountain Lake.  Fish near the log for high bite chance.  Cooking buff recommended.",
+				"level" : 10,
+				"season" : "Spring",
+				"weather" : "Rain",
+				"sell" : 5000
+			},
+			"Glacierfish" : {
+				"found" : "South end from Arrowhead Island in Cindersap Forest.  Deep waters.",
+				"level" : 6,
+				"season" : "Winter",
+				"weather" : "Any",
+				"sell" : 1000
+			},
+			"Mutant Carp" : {
+				"found" : "The Sewers.  Moves real fast.  Stay in the middle and wait for it to rest",
+				"level" : 5,
+				"season" : "Any",
+				"weather" : "Any",
+				"sell" : 1000
+			}
+		},
+		"Crab Pot" : {
+			"Lobster" : {
+				"found" : "Ocean",
+				"sell" : 120
+			},
+			"Clam" : {
+				"found" : "Ocean",
+				"sell" : 50
+			},
+			"Crayfish" : {
+				"found" : "Freshwater",
+				"sell" : 75
+			},
+			"Crab" : {
+				"found" : "Ocean",
+				"sell" : 100
+			},
+			"Cockle" : {
+				"found" : "Ocean",
+				"sell" : 50
+			},
+			"Mussel" : {
+				"found" : "Ocean",
+				"sell" : 30
+			},
+			"Shrimp" : {
+				"found" : "Ocean",
+				"sell" : 60
+			},
+			"Snail" : {
+				"found" : "Freshwater",
+				"sell" : 65
+			},
+			"Periwinkle" : {
+				"found" : "Freshwater",
+				"sell" : 20
+			},
+			"Osyter" : {
+				"found" : "Ocean",
+				"sell" : 40
+			}
+		}
+	},
+	"Artifacts" : {
+		"Dwarf Scroll I" : {
+			"found" : "Mines,Green Slime (Secret Woods),Skull Cavern (soft ground)",
+			"sell" : 1
+		},
+		"Dwarf Scroll II" : {
+			"found" : "Frost Bat,Dust Sprite,Blue Slime (Secret Woods,Mines)",
+			"sell" : 1
+		},
+		"Dwarf Scroll III" : {
+			"found" : "Mines (40+),Frost Bat,Blue Slime (Secret Woods),Skull Cavern",
+			"sell" : 1
+		},
+		"Dwarf Scroll IV" : {
+			"found" : "Any monster (Mines),Hoe on dirt (81+),Mutant Grab (Mutant Bug Lair)",
+			"sell" : 1
+		},
+		"Chipped Amphora" : {
+			"found" : "Town",
+			"sell" : 40
+		},
+		"Arrow Head" : {
+			"found" : "Mountain,Forest,Bus Stop",
+			"sell" : 40
+		},
+		"Ancient Doll" : {
+			"found" : "Mountain,Forest,Bus Stop,Town,Fishing Chest,Mines,Feast of the Winter Star",
+			"sell" : 60
+		},
+		"Elvish Jewelry" : {
+			"found" : "Forest,Fishing Chest",
+			"sell" : 200
+		},
+		"Chewing Stick" : {
+			"found" : "Mountain,Forest,Town,Fishing Chest",
+			"sell" : 50
+		},
+		"Ornamental Fan" : {
+			"found" : "Beach,Forest,Town,Fishing Chest",
+			"sell" : 300
+		},
+		"Dinosaur Egg" : {
+			"found" : "Mine,Mountain,Fishing Chest",
+			"sell" : 350
+		},	
+		"Rare Disc" : {
+			"found" : "Mines,Fishing Chest",
+			"sell" : 300
+		},
+		"Ancient Sword" : {
+			"found" : "Forest,Mountain,Fishing Chest",
+			"sell" : 100
+		},
+		"Rusty Spoon" : {
+			"found" : "Town,Fishing Chest,Mines (Dirt)",
+			"sell" : 25
+		},
+		"Rusty Spur" : {
+			"found" : "Fishing Chest,Farm",
+			"sell" : 25
+		},
+		"Rusty Cog" : {
+			"found" : "Mountain,Mine (14-25)",
+			"sell" : 25
+		},
+		"Chicken Statue" : {
+			"found" : "Fishing Chest,Forest,Farm",
+			"sell" : 50
+		},
+		"Ancient Seed" : {
+			"found" : "Forest,Mountain,Fishing Chest,Monster Drop (Bugs)",
+			"sell" : 5
+		},
+		"Prehistoric Tool" : {
+			"found" : "Bus Stop,Mountain,Forest,Fishing Chest",
+			"sell" : 50
+		},
+		"Dried Starfish" : {
+			"found" : "Beach,Fishing Chest",
+			"sell" : 40
+		},
+		"Anchor" : {
+			"found" : "Beach,Fishing Chest",
+			"sell" : 100
+		},
+		"Glass Shards" : {
+			"found" : "Beach,Fishing Chest",
+			"sell" : 20
+		},
+		"Bone Flute" : {
+			"found" : "Mine,Mountain,Town,Fishing Chest",
+			"sell" : 100
+		},
+		"Prehistoric Handaxe" : {
+			"found" : "Mountain,Forest,Bus Stop",
+			"sell" : 50
+		},
+		"Dwarvish Helm" : {
+			"found" : "Mine,Omni Geode",
+			"sell" : 100
+		},
+		"Dwarf Gadget" : {
+			"found" : "Mine,Omni Geode",
+			"sell" : 200
+		},
+		"Ancient Drum" : {
+			"found" : "Mine,Bus Stop,Forest,Town,Omni Geode",
+			"sell" : 100
+		},
+		"Golden Mask" : {
+			"found" : "Desert",
+			"sell" : 500
+		},
+		"Golden Relic" : {
+			"found" : "Desert",
+			"sell" : 250
+		},
+		"Strange Doll (green)" : {
+			"found" : "Everywhere (except Desert),Skull Cavern and Mines (soft ground),Fishing Chest",
+			"sell" : 1000
+		},
+		"Strange Doll" : {
+			"found" : "Everywhere (except Desert),Skull Cavern and Mines (soft ground),Fishing Chest",
+			"sell" : 1000
+		},
+		"Prehistoric Scapula" : {
+			"found" : "Town,Forest",
+			"sell" : 100
+		},
+		"Prehistoric Tibia" : {
+			"found" : "Forest,Railroad",
+			"sell" : 100
+		},
+		"Prehistoric Skull" : {
+			"found" : "Mountain",
+			"sell" : 100
+		},
+		"Skeletal Hand" : {
+			"found" : "Beach,Backwoods",
+			"sell" : 100
+		},
+		"Prehistoric Rib" : {
+			"found" : "Town,Farm",
+			"sell" : 100
+		},
+		"Prehistoric Vertebra" : {
+			"found" : "Bus Stop",
+			"sell" : 100
+		},
+		"Skeletal Tail" : {
+			"found" : "Mines,Fishing Chest",
+			"sell" : 100
+		},
+		"Nautilus Fossil" : {
+			"found" : "Beach,Fishing Chest",
+			"sell" : 80
+		},
+		"Amphibian Fossil" : {
+			"found" : "Forest,Mountain,Fishing Chest",
+			"sell" : 150
+		},
+		"Palm Fossil" : {
+			"found" : "Forest,Beach,Desert",
+			"sell" : 100
+		},
+		"Trilobite" : {
+			"found" : "Forest,Beach,Mountain",
+			"sell" : 50
+		}
+	},
+	"Animal Product" : {
+		"Egg" : {
+			"from" : "Chickens(normal or blue)",
+			"sell" : 50
+		},
+		"Large Egg" : {
+			"from" : "Chicken (normal or blue)",
+			"sell" : 95
+		},
+		"Brown Egg" : {
+			"from" : "Brown Chicken",
+			"sell" : 50
+		},
+		"Large Brown Eggs" : {
+			"from" : "Brown Chicken",
+			"sell" : 95
+		},
+		"Duck Egg" : {
+			"from" : "Duck",
+			"sell" : 95
+		},
+		"Duck Feather" : {
+			"from" : "Duck",
+			"sell" : 125
+		},
+		"Wool" : {
+			"from" : "Sheep,Rabbit",
+			"sell" : 340
+		},
+		"Rabbit's Foot" : {
+			"from" : "Rabbit,Serpent",
+			"sell" : 565
+		},
+		"Dinosaur Egg" : {
+			"from" : "Dinosaur",
+			"sell" : 350
+		},
+		"Milk" : {
+			"from" : "Cow",
+			"sell" : 125
+		},
+		"Large Milk" : {
+			"from" : "Cow",
+			"sell" : 190
+		},
+		"Goat Milk" : {
+			"from" : "Goat",
+			"sell" : 225
+		},
+		"Large Goat Milk" : {
+			"from" : "Goat",
+			"sell" : 345
+		},
+		"Truffle" : {
+			"from" : "Pig",
+			"sell" : 625
+		}
+	}
+}
