@@ -3,11 +3,15 @@ import GetCrops from './GetCrops.jsx';
 import Item from './Item.jsx';
 
 class App extends Component {
-   render() {
+    constructor() {
+        super();
+    }
+
+    render() {
         return (
             <div className="App">
                 <div className="Content">
-                    
+                    <GetCrops />
                 </div>
             </div>
         );
