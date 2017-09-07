@@ -64,7 +64,7 @@ class GetCrops extends Component {
             return Math.floor(num * p); // All values are rounded down in game
         }
         
-        // Import all theimages
+        // Import all the images
         const image = importImages(require.context('./media/crops', false, /\.(png|jpe?g|svg)$/));
 
         // Take the cropList state, and have each item rendered

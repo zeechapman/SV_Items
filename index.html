@@ -1,11 +1,28 @@
 <!doctype html>
 <html>
     <head>
-        <title>Stardew Valley Item Lister</title>
+        <title>Stardew Valley Farmer's Almanac</title>
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+        
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
+
+        <link rel="stylesheet" type="text/css" href="media/css/main.css" />
     </head>
     <body>
-        <div id="app"></div>
+        <div class="logo">
+            <img src="media/img/logo.png" />
+        </div>
+
+        <!--
+            Thought this whole thing was made in one big HTML file?
+            Hah!  Think again! (seriously though, keep JS enabled, please)
+        -->
+        <div id="app">
+            <img src="/src/media/loading.gif" /><br />
+            <p>Loading...</p>
+            <p>(make sure Javascript is turned on!)</p>
+        </div>
+        
         <script src="bundle.js"></script>
     </body>
 </html>
