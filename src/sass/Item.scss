@@ -1,8 +1,42 @@
+@import 'variables';
+
 .Item {
     width: 48px;
     height: 48px;
-    background: url('../media/item-bg.png');
+    position: relative;
+    margin: 0.5em;
+    background: url('../media/item-bg.png') no-repeat;
     display: flex;
+    flex-grow: 0;
     justify-content: center;
     align-items: center;
+    flex-flow: column;
+    .toolTip {
+        width: 12em;
+        visibility: hidden;
+        display: flex;
+        flex-flow: column;
+        position: absolute;
+        transform: translateY(60%);
+        z-index: 1;
+        @extend .border;
+        .name {
+            font-size: 1.5em;
+        }
+
+        .season {
+            color: #4D2D00;
+            font-weight: 700;
+        }
+    }
+
+    &:hover .toolTip {
+        visibility: visible;
+    }
+}
+
+// For each type
+.Crops {
+    display: flex;
+    flex-wrap: wrap;
 }
